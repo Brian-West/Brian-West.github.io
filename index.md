@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-[first](https://github.com/Brian-West/Brian-West.github.io/posts/2017-07-11-test.md)
+[first](https://github.com/Brian-West/Brian-West.github.io/blob/master/posts/2017-07-11-test.md)
 ```markdown
 Syntax highlighted code block
 
