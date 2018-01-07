@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Brian-West/Brian-West.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,20 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+- list
+- list
+
+1. list
+2. list
+
+**加粗**
+_斜体_
+`int x = 1 + 2;`
+
+```
+![图片](http://pic4.nipic.com/20091217/3885730_124701000519_2.jpg)
+```
+![图片](/images/timg.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
