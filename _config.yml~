@@ -2,4 +2,3 @@ theme: jekyll-theme-midnight
 github: [metadata]
 markdown: rdiscount
 permalink: pretty
-name: BrianWest
