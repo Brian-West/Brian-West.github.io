@@ -1,15 +1,16 @@
-﻿## Welcome to GitHub Pages
+﻿---
+title: Brian's Profile
+---
+## Welcome to My Blog
 
 You can use the [editor on GitHub](https://github.com/Brian-West/Brian-West.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown语法介绍
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[first](/2017/07/11/test/index.html)
-[second](/2018/01/07/example/index.html)
 ```markdown
 Syntax highlighted code block
 
@@ -27,6 +28,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+### 我的文章列表
+[first](/2017/07/11/test/index.html)
+[second](/2018/01/07/example/index.html)
+[控制反转](/2017/04/03/IoC/index.html)
+
+### 练习语法
 - list
 - list
 
@@ -44,10 +52,3 @@ _斜体_
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brian-West/Brian-West.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
