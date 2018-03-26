@@ -1,11 +1,38 @@
 ﻿---
 title: Brian's Profile
 ---
-## Welcome to My Blog
+## 欢迎来到我的个人网站
 
 You can use the [editor on GitHub](https://github.com/Brian-West/Brian-West.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### 我的文章列表
+1. 编程
+ - [求所有质数]()
+ - [动态规划]()
+ - [大数乘法](/2018/03/26/Algorithm1/index.html)
+2. JavaEE框架
+ - [控制反转](/2017/04/03/IoC/index.html)
+ - [IoC源码分析]()
+3. 计算机视觉
+ - [OpenCV配置](/2018/03/25/opencv1/index.html)
+4. JVM
+ - [垃圾收集器和内存分配策略](/2018/01/15/GC/index.html)
+ - [内存模型]()
+ - [Java中的锁机制]()
+ - [编译优化技术]()
+ - [类加载]()
+5. MySQL技术内幕
+ - [MVCC](/2018/03/25/MVCC1/index.html)
+6. 春招准备
+ - [进程间通信](/2018/03/25/OS1/index.html)
+ - [特殊的进程](/2018/03/25/OS2/index.html)
+ - [Java线程间通信](/2018/03/25/Object/index.html)
+ - [三次握手](/2018/03/25/TCP1/index.html)
+ - [四次挥手](/2018/03/25/TCP2/index.html)
+ - [排序算法的稳定性]()
+ - [生产者消费者]()
 
 ### Markdown语法介绍
 
@@ -28,11 +55,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-### 我的文章列表
-[first](/2017/07/11/test/index.html)
-[second](/2018/01/07/example/index.html)
-[控制反转](/2017/04/03/IoC/index.html)
 
 ### 练习语法
 - list
