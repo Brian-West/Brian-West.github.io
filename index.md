@@ -9,24 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 我的文章列表
 1. 编程
-<<<<<<< HEAD
  - [求N以内所有质数](/2018/03/27/Prime/index.html)
  - [动态规划](/2018/03/27/DP/index.html)
-=======
- - [求所有质数]()
- - [动态规划]()
->>>>>>> cae504ef4a183b5aa26113bbc5ad3e8bd8862c41
  - [大数乘法](/2018/03/26/Algorithm1/index.html)
 2. JavaEE框架
  - [控制反转](/2017/04/03/IoC/index.html)
  - [IoC源码分析]()
 3. 计算机视觉
-<<<<<<< HEAD
  - [OpenCV3+VS2015+Win10配置](/2018/03/25/opencv1/index.html)
  - [SIFT/SURF/ORB和RANSAC的OpenCV实现](/2018/03/29/opencv2/index.html)
-=======
- - [OpenCV配置](/2018/03/25/opencv1/index.html)
->>>>>>> cae504ef4a183b5aa26113bbc5ad3e8bd8862c41
 4. JVM
  - [垃圾收集器和内存分配策略](/2018/01/15/GC/index.html)
  - [内存模型]()
