@@ -18,6 +18,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. 计算机视觉
  - [OpenCV3+VS2015+Win10配置](/2018/03/25/opencv1/index.html)
  - [SIFT/SURF/ORB和RANSAC的OpenCV实现](/2018/03/29/opencv2/index.html)
+ - [OpenCV3中FLANN的使用](/2018/04/01/opencv3/index.html)
+ - [OpenCV3中SIFT,SURF,ORB,kd-tree,lsh,RANSAC算法个人记录](/2018/04/24/opencv4/index.html)
 4. JVM
  - [垃圾收集器和内存分配策略](/2018/01/15/GC/index.html)
  - [内存模型]()
@@ -27,6 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 5. MySQL技术内幕
  - [MVCC](/2018/03/25/MVCC1/index.html)
 6. 春招准备
+ - [腾讯错题汇总](/2018/04/01/tencent/index.html)
  - [进程间通信](/2018/03/25/OS1/index.html)
  - [特殊的进程](/2018/03/25/OS2/index.html)
  - [Java线程间通信](/2018/03/25/Object/index.html)
@@ -34,6 +37,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  - [四次挥手](/2018/03/25/TCP2/index.html)
  - [排序算法的稳定性]()
  - [生产者消费者]()
+7. 设计模式
+ - [工厂模式总结](/2018/04/26/DS1/index.html)
+ - [单例模式总结](/2018/04/28/DS2/index.html)
+ - [原型模式总结](/2018/04/29/DS3/index.html)
+ - [建造者模式总结](/2018/04/29/DS4/index.html)
+ - [模板模式总结](/2018/05/02/DS5/index.html)
 
 ### Markdown语法介绍
 
